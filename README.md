@@ -1,2 +1,2 @@
 # MohammadMostafaAR.github.io
-for a persona; project
+for a personal project
